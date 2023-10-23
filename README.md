@@ -2,7 +2,15 @@
 get is not the same as gethub
 -->
 
-# my-first-repo
+# Heading Level 1
+## Level 2
+### Level 3
+#### Level 4
+##### Level 5
+###### Level 6
+
+**bold**.
+__bold__.
 
 ## My List
 - item 1
